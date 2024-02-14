@@ -1,0 +1,5 @@
+print("eMobilis")
+print("Natasha")
+print(100)
+print(5+10)
+print("Hello World")
